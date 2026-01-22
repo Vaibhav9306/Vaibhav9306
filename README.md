@@ -1,93 +1,95 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/0?v=4" width="180" style="border-radius:50%" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi, I'm Vaibhav 👋</h1>
-<h3 align="center">Web Developer | Event Platform Builder | Tech Enthusiast</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Vaibhav;Web+Developer;Building+Scalable+Web+Platforms" />
 
-<p align="center">
-  <a href="https://github.com/Vaibhav9306">
-    <img src="https://komarev.com/ghpvc/?username=Vaibhav9306&style=flat-square&color=blue" />
-  </a>
-</p>
+<br/>
 
----
+<img src="https://avatars.githubusercontent.com/Vaibhav9306" width="160" style="border-radius:50%" />
 
-## 🚀 About Me
+<br/><br/>
 
-- 💻 Passionate about building **web applications & platforms**
-- 🌐 Worked on **event hosting systems & learning platforms**
-- 🧠 Exploring **full stack development**
-- 🎯 Goal: Become a strong software engineer
+<a href="https://github.com/Vaibhav9306">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=flat&logo=github&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=flat"/>
+</a>
 
----
-
-## 🛠 Tech Stack
-
-### Frontend
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+</div>
 
 ---
 
-## 📌 Featured Projects
+## Profile
 
-### 🔹 Devnovate
-Event Hosting Platform  
-`HTML / CSS / JS`
+I am a web developer focused on building clean, functional and scalable web platforms.  
+My primary interests include full-stack development, system design fundamentals, and real-world product engineering.
 
-### 🔹 Code-Radar-Solutions
-Solutions to Code Radar Problems  
-Competitive Programming
-
-### 🔹 LinguaLearn
-Language Learning Platform  
+I enjoy working on:
+- Event management platforms  
+- Learning-based web applications  
+- Problem-solving and competitive programming  
 
 ---
 
-## 📊 GitHub Stats
+## Technical Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav9306&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav9306&theme=tokyonight" width="48%"/>
-</p>
+**Frontend**  
+HTML · CSS · JavaScript  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav9306&layout=compact&theme=tokyonight"/>
-</p>
+**Tools & Workflow**  
+Git · GitHub · VS Code  
 
----
-
-## 🧠 Currently Learning
-
-- Full Stack Web Development
-- Advanced JavaScript
-- System Design Basics
+**Core Concepts**  
+Web Architecture · REST Basics · Data Structures  
 
 ---
 
-## 🤝 Connect With Me
+## Selected Projects
 
-<p align="center">
-  <a href="https://github.com/Vaibhav9306">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge"/>
-  </a>
-</p>
+### Devnovate  
+Event hosting platform enabling creation and management of technical events.  
+
+### Code-Radar-Solutions  
+A curated collection of competitive programming solutions.  
+
+### LinguaLearn  
+A simple web-based language learning platform.  
 
 ---
 
-<p align="center">
-  <b>“Building projects is better than just learning.”</b>
-</p>
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vaibhav9306&show_icons=true&hide_title=true&theme=transparent" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav9306&theme=transparent" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav9306&layout=compact&theme=transparent" width="40%"/>
+
+</div>
+
+---
+
+## Current Focus
+
+- Strengthening JavaScript and web fundamentals  
+- Building full-stack applications  
+- Improving problem-solving skills  
+
+---
+
+## Contact
+
+- GitHub: https://github.com/Vaibhav9306  
+- LinkedIn: (add when ready)  
+- Portfolio: (coming soon)
+
+---
+
+<div align="center">
+<sub>Designed for clarity, consistency, and professional presentation.</sub>
+</div>
